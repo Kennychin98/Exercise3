@@ -27,6 +27,7 @@ class MainActivity : AppCompatActivity() {
             myData.premiumAmount = 0.00
         }
     }
+    //
     fun display()
     {
         if(myData.premiumAmount !=0.00) {
